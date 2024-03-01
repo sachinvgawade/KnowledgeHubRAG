@@ -1,0 +1,3 @@
+farm-haystack[colab,inference,faiss]
+pip install pymupdf pypdf2
+flask
