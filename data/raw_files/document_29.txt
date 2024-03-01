@@ -1,0 +1,33 @@
+the genetic modification of crops). Biotechnology also has many industrial applications, such as
+fermentation, the treatment of oil spills, and the production of biofuels, as well as many
+household applications such as the use of enzymes in laundry detergent.
+Manipulating Genetic Material
+To accomplish the applications described above, biotechnologists must be able to extract,
+manipulate, and analyze nucleic acids.
+Review of Nucleic Acid Structure
+To understand the basic techniques used to work with nucleic acids, remember that nucleic acids
+are macromolecules made of nucleotides (a sugar, a phosphate, and a nitrogenous base). The
+phosphate groups on these molecules each have a net negative charge. An entire set of DNA
+molecules in the nucleus of eukaryotic organisms is called the genome. DNA has two
+complementary strands linked by hydrogen bonds between the paired bases.
+Unlike DNA in eukaryotic cells, RNA molecules leave the nucleus. Messenger RNA (mRNA) is
+analyzed most frequently because it represents the protein-coding genes that are being expressed
+in the cell.
+Isolation of Nucleic Acids
+To study or manipulate nucleic acids, the DNA must first be extracted from cells. Various
+techniques are used to extract different types of DNA (Figure 10.2). Most nucleic acid extraction
+techniques involve steps to break open the cell, and then the use of enzymatic reactions to
+destroy all undesired macromolecules. Cells are broken open using a detergent solution
+containing buffering compounds. To prevent degradation and contamination, macromolecules
+such as proteins and RNA are inactivated using enzymes. The DNA is then brought out of solution
+using alcohol. The resulting DNA, because it is made up of long polymers, forms a gelatinous
+mass.
+FIGURE 10.2 This diagram shows the basic method used for the extraction of DNA.
+RNA is studied to understand gene expression patterns in cells. RNA is naturally very unstable
+because enzymes that break down RNA are commonly present in nature. Some are even secreted
+by our own skin and are very difficult to inactivate. Similar to DNA extraction, RNA extraction
+involves the use of various buffers and enzymes to inactivate other macromolecules and preserve
+only the RNA.
+224
+10 • Biotechnology
+Access for free at openstax.org

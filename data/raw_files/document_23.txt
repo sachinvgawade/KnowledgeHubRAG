@@ -1,0 +1,14 @@
+FIGURE 9.23 There are five basic modes of alternative splicing. Segments of pre-mRNA with exons shown in blue, red, orange, and pink can
+be spliced to produce a variety of new mature mRNA segments.
+How could alternative splicing evolve? Introns have a beginning and ending recognition sequence, and it is easy to
+imagine the failure of the splicing mechanism to identify the end of an intron and find the end of the next intron, thus
+removing two introns and the intervening exon. In fact, there are mechanisms in place to prevent such exon
+skipping, but mutations are likely to lead to their failure. Such “mistakes” would more than likely produce a
+nonfunctional protein. Indeed, the cause of many genetic diseases is alternative splicing rather than mutations in a
+sequence. However, alternative splicing would create a protein variant without the loss of the original protein,
+opening up possibilities for adaptation of the new variant to new functions. Gene duplication has played an
+important role in the evolution of new functions in a similar way—by providing genes that may evolve without
+eliminating the original functional protein.
+218
+9 • Molecular Biology
+Access for free at openstax.org

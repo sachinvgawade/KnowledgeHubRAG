@@ -1,0 +1,28 @@
+Mitochondrial Genomics
+Mitochondria are intracellular organelles that contain their own DNA. Mitochondrial DNA mutates at a rapid rate and
+is often used to study evolutionary relationships. Another feature that makes studying the mitochondrial genome
+interesting is that in most multicellular organisms, the mitochondrial DNA is passed on from the mother during the
+process of fertilization. For this reason, mitochondrial genomics is often used to trace genealogy.
+Genomics in Forensic Analysis
+Information and clues obtained from DNA samples found at crime scenes have been used as evidence in court
+cases, and genetic markers have been used in forensic analysis. Genomic analysis has also become useful in this
+field. In 2001, the first use of genomics in forensics was published. It was a collaborative effort between academic
+research institutions and the FBI to solve the mysterious cases of anthrax (Figure 10.15) that was transported by
+the US Postal Service. Anthrax bacteria were made into an infectious powder and mailed to news media and two
+U.S. Senators. The powder infected the administrative staff and postal workers who opened or handled the letters.
+Five people died, and 17 were sickened from the bacteria. Using microbial genomics, researchers determined that a
+specific strain of anthrax was used in all the mailings; eventually, the source was traced to a scientist at a national
+biodefense laboratory in Maryland.
+FIGURE 10.15 Bacillus anthracis is the organism that causes anthrax. (credit: modification of work by CDC; scale-bar data from Matt
+Russell)
+Genomics in Agriculture
+Genomics can reduce the trials and failures involved in scientific research to a certain extent, which could improve
+the quality and quantity of crop yields in agriculture (Figure 10.16). Linking traits to genes or gene signatures helps
+to improve crop breeding to generate hybrids with the most desirable qualities. Scientists use genomic data to
+identify desirable traits, and then transfer those traits to a different organism to create a new genetically modified
+organism, as described in the previous module. Scientists are discovering how genomics can improve the quality
+and quantity of agricultural production. For example, scientists could use desirable traits to create a useful product
+or enhance an existing product, such as making a drought-sensitive crop more tolerant of the dry season.
+240
+10 • Biotechnology
+Access for free at openstax.org

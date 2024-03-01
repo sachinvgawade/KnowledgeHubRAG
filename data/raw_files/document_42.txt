@@ -1,0 +1,52 @@
+Applying Genomics
+The introduction of DNA sequencing and whole genome sequencing projects, particularly the Human Genome
+Project, has expanded the applicability of DNA sequence information. Genomics is now being used in a wide variety
+of fields, such as metagenomics, pharmacogenomics, and mitochondrial genomics. The most commonly known
+application of genomics is to understand and find cures for diseases.
+Predicting Disease Risk at the Individual Level
+Predicting the risk of disease involves screening and identifying currently healthy individuals by genome analysis at
+the individual level. Intervention with lifestyle changes and drugs can be recommended before disease onset.
+However, this approach is most applicable when the problem arises from a single gene mutation. Such defects only
+account for about 5 percent of diseases found in developed countries. Most of the common diseases, such as heart
+disease, are multifactorial or polygenic, which refers to a phenotypic characteristic that is determined by two or
+more genes, and also environmental factors such as diet. In April 2010, scientists at Stanford University published
+the genome analysis of a healthy individual (Stephen Quake, a scientist at Stanford University, who had his genome
+sequenced); the analysis predicted his propensity to acquire various diseases. A risk assessment was done to
+analyze Quake’s percentage of risk for 55 different medical conditions. A rare genetic mutation was found that
+showed him to be at risk for sudden heart attack. He was also predicted to have a 23 percent risk of developing
+prostate cancer and a 1.4 percent risk of developing Alzheimer’s disease. The scientists used databases and several
+publications to analyze the genomic data. Even though genomic sequencing is becoming more affordable and
+analytical tools are becoming more reliable, ethical issues surrounding genomic analysis at a population level
+remain to be addressed. For example, could such data be legitimately used to charge more or less for insurance or
+to affect credit ratings?
+Gene Editing
+For thousands of years, humans have engaged in some level of control over genes and heredity regarding the plants
+and animals we rely on. The technology now exists to exert that control more directly by precisely altering the DNA
+of organisms. The technique is usually referred to as CRISPR, for the portions of DNA it targets: "Clustered Regularly
+Interspaced Short Palindromic Repeats." In essence, DNA contains repetitive sequences with "spacers" between
+them. CRISPR-associated nucleases (known as "Cas") are enzymes that can identify, attach to, and cut the strand at
+precise locations. In 2012, Jennifer Doudna and Emmanuelle Charpentier developed a method to combine the Cas
+nuclease with a synthetically produced "guide RNA" that leads the nuclease to selected locations on the DNA
+strand. The discovery revolutionized gene editing. Researchers around the world have used CRISPR to manipulate
+the actual DNA of plants, animals, laboratory cell lines, and (in trials) human patients. Doudna and Charpentier were
+awarded the Nobel Prize for their work.
+Gene editing is so promising because it can be used experimentally to understand disease or organismal limitations,
+then be applied to overcome those issues. For example, in a human trial, cancerous cells were removed from a
+person, edited to remove their cancerous properties at the DNA level, and reintroduced into the patient so that
+those now edited cells could multiply and replace the cancerous ones. Using the person's own cells increases the
+likelihood of acceptance and success.
+Like other applications of genomics, the prospect of directly editing genes brings up a number of ethical issues. Both
+Doudna and Chapentier, as well as many other genetic engineers, support only certain CRISPR applications. And
+many governments and other entities place strict guidelines on the uses of the powerful technology.
+Genome-wide Association Studies
+Since 2005, it has been possible to conduct a type of study called a genome-wide association study, or GWAS. A
+GWAS is a method that identifies differences between individuals in single nucleotide polymorphisms (SNPs) that
+may be involved in causing diseases. The method is particularly suited to diseases that may be affected by one or
+many genetic changes throughout the genome. It is very difficult to identify the genes involved in such a disease
+using family history information. The GWAS method relies on a genetic database that has been in development since
+2002 called the International HapMap Project. The HapMap Project sequenced the genomes of several hundred
+individuals from around the world and identified groups of SNPs. The groups include SNPs that are located near to
+each other on chromosomes so they tend to stay together through recombination. The fact that the group stays
+together means that identifying one marker SNP is all that is needed to identify all the SNPs in the group. There are
+10.3 • Genomics and Proteomics
+237

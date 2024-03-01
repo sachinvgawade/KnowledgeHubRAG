@@ -1,0 +1,21 @@
+FIGURE 10.4 Polymerase chain reaction, or PCR, is used to produce many copies of a specific sequence of DNA using a special form of DNA
+polymerase.
+Cloning
+In general, cloning means the creation of a perfect replica. Typically, the word is used to describe the creation of a
+genetically identical copy. In biology, the re-creation of a whole organism is referred to as “reproductive cloning.”
+Long before attempts were made to clone an entire organism, researchers learned how to copy short stretches of
+DNA—a process that is referred to as molecular cloning. The technique offered methods to create new medicines
+and to overcome difficulties with existing ones. When Lydia Villa-Komaroff, working in the Gilbert Lab at Harvard,
+published the first paper outlining the technique for producing synthetic insulin, diabetes researchers and patients
+received new hope in fighting the disease. Insulin at that time was only produced using pig and cow pancreases, and
+the life-saving substance was often in short supply. Synthetic insulin, once mass produced, would solve that
+problem for many patients. These early discoveries led to the "BioTech Boom," and spurred continued research and
+funding for newer and better ways to improve health.
+Molecular Cloning
+Cloning allows for the creation of multiple copies of genes, expression of genes, and study of specific genes. To get
+the DNA fragment into a bacterial cell in a form that will be copied or expressed, the fragment is first inserted into a
+plasmid. A plasmid (also called a vector in this context) is a small circular DNA molecule that replicates
+independently of the chromosomal DNA in bacteria. In cloning, the plasmid molecules can be used to provide a
+226
+10 • Biotechnology
+Access for free at openstax.org

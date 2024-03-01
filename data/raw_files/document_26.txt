@@ -1,0 +1,113 @@
+transcription; mRNA is used to synthesize proteins by
+the process of translation. The genetic code is the
+correspondence between the three-nucleotide mRNA
+codon and an amino acid. The genetic code is
+“translated” by the tRNA molecules, which associate a
+specific codon with a specific amino acid. The genetic
+code is degenerate because 64 triplet codons in mRNA
+specify only 20 amino acids and three stop codons.
+This means that more than one codon corresponds to
+an amino acid. Almost every species on the planet uses
+the same genetic code.
+The players in translation include the mRNA template,
+ribosomes, tRNAs, and various enzymatic factors. The
+small ribosomal subunit binds to the mRNA template.
+Translation begins at the initiating AUG on the mRNA.
+The formation of bonds occurs between sequential
+amino acids specified by the mRNA template according
+to the genetic code. The ribosome accepts charged
+tRNAs, and as it steps along the mRNA, it catalyzes
+bonding between the new amino acid and the end of
+the growing polypeptide. The entire mRNA is translated
+in three-nucleotide “steps” of the ribosome. When a
+stop codon is encountered, a release factor binds and
+dissociates the components and frees the new protein.
+9.5 How Genes Are Regulated
+While all somatic cells within an organism contain the
+same DNA, not all cells within that organism express
+the same proteins. Prokaryotic organisms express the
+entire DNA they encode in every cell, but not
+necessarily all at the same time. Proteins are
+expressed only when they are needed. Eukaryotic
+organisms express a subset of the DNA that is encoded
+in any given cell. In each cell type, the type and amount
+of protein is regulated by controlling gene expression.
+To express a protein, the DNA is first transcribed into
+RNA, which is then translated into proteins. In
+prokaryotic cells, these processes occur almost
+simultaneously. In eukaryotic cells, transcription
+occurs in the nucleus and is separate from the
+translation that occurs in the cytoplasm. Gene
+expression in prokaryotes is regulated only at the
+transcriptional level, whereas in eukaryotic cells, gene
+expression is regulated at the epigenetic,
+transcriptional, post-transcriptional, translational, and
+post-translational levels.
+Visual Connection Questions
+1. Figure 9.10 You isolate a cell strain in which the
+joining together of Okazaki fragments is impaired
+and suspect that a mutation has occurred in an
+enzyme found at the replication fork. Which enzyme
+is most likely to be mutated?
+Review Questions
+2. Which of the following does cytosine pair with?
+a.
+guanine
+b.
+thymine
+c.
+adenine
+d.
+a pyrimidine
+3. Prokaryotes contain a ________chromosome, and
+eukaryotes contain ________ chromosomes.
+a.
+single-stranded circular; single-stranded linear
+b.
+single-stranded linear; single-stranded circular
+c.
+double-stranded circular; double-stranded
+linear
+d.
+double-stranded linear; double-stranded
+circular
+4. DNA replicates by which of the following models?
+a.
+conservative
+b.
+semiconservative
+c.
+dispersive
+d.
+none of the above
+5. The initial mechanism for repairing nucleotide
+errors in DNA is ________.
+a.
+mismatch repair
+b.
+DNA polymerase proofreading
+c.
+nucleotide excision repair
+d.
+thymine dimers
+6. A promoter is ________.
+a.
+a specific sequence of DNA nucleotides
+b.
+a specific sequence of RNA nucleotides
+c.
+a protein that binds to DNA
+d.
+an enzyme that synthesizes RNA
+7. Portions of eukaryotic mRNA sequence that are
+removed during RNA processing are ________.
+a.
+exons
+b.
+caps
+c.
+poly-A tails
+d.
+introns
+9 • Visual Connection Questions
+221

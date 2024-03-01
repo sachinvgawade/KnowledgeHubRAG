@@ -1,0 +1,143 @@
+Key Terms
+alternative RNA splicing
+a post-transcriptional gene
+regulation mechanism in eukaryotes in which
+multiple protein products are produced by a single
+gene through alternative splicing combinations of
+the RNA transcript
+codon
+three consecutive nucleotides in mRNA that
+specify the addition of a specific amino acid or the
+release of a polypeptide chain during translation
+deoxyribose
+a five-carbon sugar molecule with a
+hydrogen atom rather than a hydroxyl group in the
+2' position; the sugar component of DNA
+nucleotides
+DNA ligase
+the enzyme that catalyzes the joining of
+DNA fragments together
+DNA polymerase
+an enzyme that synthesizes a new
+strand of DNA complementary to a template strand
+double helix
+the molecular shape of DNA in which
+two strands of nucleotides wind around each other
+in a spiral shape
+epigenetic
+describing non-genetic regulatory factors,
+such as changes in modifications to histone proteins
+and DNA that control accessibility to genes in
+chromosomes
+exon
+a sequence present in protein-coding mRNA
+after completion of pre-mRNA splicing
+gene expression
+processes that control whether a
+gene is expressed
+genetic code
+the amino acids that correspond to
+three-nucleotide codons of mRNA
+helicase
+an enzyme that helps to open up the DNA
+helix during DNA replication by breaking the
+hydrogen bonds
+intron
+non–protein-coding intervening sequences
+that are spliced from mRNA during processing
+lagging strand
+during replication of the 3' to 5'
+strand, the strand that is replicated in short
+fragments and away from the replication fork
+leading strand
+the strand that is synthesized
+continuously in the 5' to 3' direction that is
+synthesized in the direction of the replication fork
+mismatch repair
+a form of DNA repair in which non-
+complementary nucleotides are recognized,
+excised, and replaced with correct nucleotides
+mRNA
+messenger RNA; a form of RNA that carries
+the nucleotide sequence code for a protein
+sequence that is translated into a polypeptide
+sequence
+mutation
+a permanent variation in the nucleotide
+sequence of a genome
+nitrogenous base
+a nitrogen-containing molecule
+that acts as a base; often referring to one of the
+purine or pyrimidine components of nucleic acids
+nontemplate strand
+the strand of DNA that is not
+used to transcribe mRNA; this strand is identical to
+the mRNA except that T nucleotides in the DNA are
+replaced by U nucleotides in the mRNA
+nucleotide excision repair
+a form of DNA repair in
+which the DNA molecule is unwound and separated
+in the region of the nucleotide damage, the
+damaged nucleotides are removed and replaced
+with new nucleotides using the complementary
+strand, and the DNA strand is resealed and allowed
+to rejoin its complement
+Okazaki fragments
+the DNA fragments that are
+synthesized in short stretches on the lagging strand
+phosphate group
+a molecular group consisting of a
+central phosphorus atom bound to four oxygen
+atoms
+post-transcriptional
+control of gene expression after
+the RNA molecule has been created but before it is
+translated into protein
+post-translational
+control of gene expression after a
+protein has been created
+primer
+a short stretch of RNA nucleotides that is
+required to initiate replication and allow DNA
+polymerase to bind and begin replication
+promoter
+a sequence on DNA to which RNA
+polymerase and associated factors bind and initiate
+transcription
+replication fork
+the Y-shaped structure formed
+during the initiation of replication
+RNA polymerase
+an enzyme that synthesizes an RNA
+strand from a DNA template strand
+rRNA
+ribosomal RNA; molecules of RNA that combine
+to form part of the ribosome
+semiconservative replication
+the method used to
+replicate DNA in which the double-stranded
+molecule is separated and each strand acts as a
+template for a new strand to be synthesized, so the
+resulting DNA molecules are composed of one new
+strand of nucleotides and one old strand of
+nucleotides
+splicing
+the process of removing introns and
+reconnecting exons in a pre-mRNA
+start codon
+the AUG (or, rarely GUG) on an mRNA
+from which translation begins; always specifies
+methionine
+stop codon
+one of the three mRNA codons that
+specifies termination of translation
+telomerase
+an enzyme that contains a catalytic part
+and an inbuilt RNA template; it functions to maintain
+telomeres at chromosome ends
+telomere
+the DNA at the end of linear chromosomes
+template strand
+the strand of DNA that specifies the
+9 • Key Terms
+219

@@ -1,0 +1,24 @@
+FIGURE 9.15 The initiation of transcription begins when DNA is unwound, forming a transcription bubble. Enzymes and other proteins
+involved in transcription bind at the promoter.
+Elongation
+Transcription always proceeds from one of the two DNA strands, which is called the template strand. The mRNA
+product is complementary to the template strand and is almost identical to the other DNA strand, called the
+nontemplate strand, with the exception that RNA contains a uracil (U) in place of the thymine (T) found in DNA.
+During elongation, an enzyme called RNA polymerase proceeds along the DNA template adding nucleotides by
+base pairing with the DNA template in a manner similar to DNA replication, with the difference that an RNA strand is
+being synthesized that does not remain bound to the DNA template. As elongation proceeds, the DNA is
+continuously unwound ahead of the core enzyme and rewound behind it (Figure 9.16).
+FIGURE 9.16 During elongation, RNA polymerase tracks along the DNA template, synthesizes mRNA in the 5' to 3' direction, and unwinds
+then rewinds the DNA as it is read.
+Termination
+Once a gene is transcribed, the prokaryotic polymerase needs to be instructed to dissociate from the DNA template
+and liberate the newly made mRNA. Depending on the gene being transcribed, there are two kinds of termination
+signals, but both involve repeated nucleotide sequences in the DNA template that result in RNA polymerase stalling,
+leaving the DNA template, and freeing the mRNA transcript.
+On termination, the process of transcription is complete. In a prokaryotic cell, by the time termination occurs, the
+transcript would already have been used to partially synthesize numerous copies of the encoded protein because
+these processes can occur concurrently using multiple ribosomes (polyribosomes) (Figure 9.17). In contrast, the
+presence of a nucleus in eukaryotic cells precludes simultaneous transcription and translation.
+210
+9 • Molecular Biology
+Access for free at openstax.org

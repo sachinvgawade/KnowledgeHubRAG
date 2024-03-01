@@ -1,0 +1,9 @@
+FIGURE 9.2 Scientist Rosalind Franklin discovered the X-ray diffraction pattern of DNA, which helped to elucidate its double helix structure.
+(credit: modification of work by NIH)
+Now let’s consider the structure of the two types of nucleic acids, deoxyribonucleic acid (DNA) and ribonucleic acid
+(RNA). The building blocks of DNA are nucleotides, which are made up of three parts: a deoxyribose (5-carbon
+sugar), a phosphate group, and a nitrogenous base (Figure 9.3). There are four types of nitrogenous bases in DNA.
+Adenine (A) and guanine (G) are double-ringed purines, and cytosine (C) and thymine (T) are smaller, single-ringed
+pyrimidines. The nucleotide is named according to the nitrogenous base it contains.
+9.1 • The Structure of DNA
+199

@@ -1,0 +1,33 @@
+INTRODUCTION
+CHAPTER 10
+Biotechnology
+10.1 Cloning and Genetic Engineering
+10.2 Biotechnology in Medicine and Agriculture
+10.3 Genomics and Proteomics
+The latter half of the twentieth century began with the discovery of the structure
+of DNA, then progressed to the development of the basic tools used to study and manipulate DNA.
+These advances, as well as advances in our understanding of and ability to manipulate cells, have
+led some to refer to the twenty-first century as the biotechnology century. The rate of discovery
+and of the development of new applications in medicine, agriculture, and energy is expected to
+accelerate, bringing huge benefits to humankind and perhaps also significant risks. Many of these
+developments are expected to raise significant ethical and social questions that human societies
+have not yet had to consider.
+10.1 Cloning and Genetic Engineering
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+•
+Explain the basic techniques used to manipulate genetic material
+•
+Explain molecular and reproductive cloning
+Biotechnology is the use of artificial methods to modify the genetic material of living organisms or
+cells to produce novel compounds or to perform new functions. Biotechnology has been used for
+improving livestock and crops since the beginning of agriculture through selective breeding. Since
+the discovery of the structure of DNA in 1953, and particularly since the development of tools and
+methods to manipulate DNA in the 1970s, biotechnology has become synonymous with the
+manipulation of organisms’ DNA at the molecular level. The primary applications of this
+technology are in medicine (for the production of vaccines and antibiotics) and in agriculture (for
+FIGURE 10.1 (a) A thermal cycler, such as the one shown here, is a basic tool used to study DNA in a process called
+the polymerase chain reaction (PCR). The polymerase enzyme most often used with PCR comes from a strain of
+bacteria that lives in (b) the hot springs of Yellowstone National Park. (credit a: modification of work by Magnus
+Manske; credit b: modification of work by Jon Sullivan)
+CHAPTER OUTLINE

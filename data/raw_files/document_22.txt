@@ -1,0 +1,31 @@
+Differences in the Regulation of Gene Expression of Prokaryotic and Eukaryotic Organisms
+Prokaryotic organisms
+Eukaryotic organisms
+Lack nucleus
+Contain nucleus
+RNA transcription and protein
+translation occur almost
+simultaneously
+•
+RNA transcription occurs prior to protein translation, and it takes place
+in the nucleus. RNA translation to protein occurs in the cytoplasm.
+•
+RNA post-processing includes addition of a 5' cap, poly-A tail, and
+excision of introns and splicing of exons.
+Gene expression is regulated
+primarily at the transcriptional level
+Gene expression is regulated at many levels (epigenetic, transcriptional,
+post-transcriptional, translational, and post-translational)
+TABLE 9.2
+EVOLUTION CONNECTION
+Alternative RNA Splicing
+In the 1970s, genes were first observed that exhibited alternative RNA splicing. Alternative RNA splicing is a
+mechanism that allows different protein products to be produced from one gene when different combinations of
+introns (and sometimes exons) are removed from the transcript (Figure 9.23). This alternative splicing can be
+haphazard, but more often it is controlled and acts as a mechanism of gene regulation, with the frequency of
+different splicing alternatives controlled by the cell as a way to control the production of different protein products
+in different cells, or at different stages of development. Alternative splicing is now understood to be a common
+mechanism of gene regulation in eukaryotes; according to one estimate, 70% of genes in humans are expressed as
+multiple proteins through alternative splicing.
+9.5 • How Genes Are Regulated
+217

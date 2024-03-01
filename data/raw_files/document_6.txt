@@ -1,0 +1,31 @@
+deoxyribose, which has only a hydrogen atom (Figure 9.5).
+FIGURE 9.5 The difference between the ribose found in RNA and the deoxyribose found in DNA is that ribose has a hydroxyl group at the 2'
+carbon.
+RNA nucleotides contain the nitrogenous bases adenine, cytosine, and guanine. However, they do not contain
+thymine, which is instead replaced by uracil, symbolized by a “U.” RNA exists as a single-stranded molecule rather
+than a double-stranded helix. Molecular biologists have named several kinds of RNA on the basis of their function.
+These include messenger RNA (mRNA), transfer RNA (tRNA), and ribosomal RNA (rRNA)—molecules that are
+involved in the production of proteins from the DNA code.
+How DNA Is Arranged in the Cell
+DNA is a working molecule; it must be replicated when a cell is ready to divide, and it must be “read” to produce the
+molecules, such as proteins, to carry out the functions of the cell. For this reason, the DNA is protected and
+packaged in very specific ways. In addition, DNA molecules can be very long. Stretched end-to-end, the DNA
+molecules in a single human cell would come to a length of about 2 meters. Thus, the DNA for a cell must be
+packaged in a very ordered way to fit and function within a structure (the cell) that is not visible to the naked eye.
+The chromosomes of prokaryotes are much simpler than those of eukaryotes in many of their features (Figure 9.6).
+Most prokaryotes contain a single, circular chromosome that is found in an area in the cytoplasm called the
+nucleoid.
+FIGURE 9.6 A eukaryote contains a well-defined nucleus, whereas in prokaryotes, the chromosome lies in the cytoplasm in an area called
+the nucleoid.
+The size of the genome in one of the most well-studied prokaryotes, Escherichia coli, is 4.6 million base pairs, which
+would extend a distance of about 1.6 mm if stretched out. So how does this fit inside a small bacterial cell? The DNA
+is twisted beyond the double helix in what is known as supercoiling. Some proteins are known to be involved in the
+supercoiling; other proteins and enzymes help in maintaining the supercoiled structure.
+Eukaryotes, whose chromosomes each consist of a linear DNA molecule, employ a different type of packing strategy
+to fit their DNA inside the nucleus (Figure 9.7). Before the structure of DNA was even uncovered, Marie Maynard
+Daly and Arthur E. Mirsky conducted extensive research in the 1940s and 1950s to understand the molecules and
+structures in involved. At the most basic level, DNA is wrapped around proteins known as histones to form
+structures called nucleosomes. The DNA is wrapped tightly around the histone core. This nucleosome is linked to
+the next one by a short strand of DNA that is free of histones. This is also known as the “beads on a string”
+9.1 • The Structure of DNA
+201

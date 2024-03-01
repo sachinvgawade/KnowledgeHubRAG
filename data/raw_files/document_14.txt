@@ -1,0 +1,38 @@
+9.3 Transcription
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+•
+Explain the central dogma
+•
+Explain the main steps of transcription
+•
+Describe how eukaryotic mRNA is processed
+In both prokaryotes and eukaryotes, the second function of DNA (the first was replication) is to provide the
+information needed to construct the proteins necessary so that the cell can perform all of its functions. To do this,
+the DNA is “read” or transcribed into an mRNA molecule. The mRNA then provides the code to form a protein by a
+process called translation. Through the processes of transcription and translation, a protein is built with a specific
+sequence of amino acids that was originally encoded in the DNA. This module discusses the details of transcription.
+The Central Dogma: DNA Encodes RNA; RNA Encodes Protein
+The flow of genetic information in cells from DNA to mRNA to protein is described by the central dogma (Figure
+9.14), which states that genes specify the sequences of mRNAs, which in turn specify the sequences of proteins.
+FIGURE 9.14 The central dogma states that DNA encodes RNA, which in turn encodes protein.
+The copying of DNA to mRNA is relatively straightforward, with one nucleotide being added to the mRNA strand for
+every complementary nucleotide read in the DNA strand. The translation to protein is more complex because groups
+of three mRNA nucleotides correspond to one amino acid of the protein sequence. However, as we shall see in the
+next module, the translation to protein is still systematic, such that nucleotides 1 to 3 correspond to amino acid 1,
+nucleotides 4 to 6 correspond to amino acid 2, and so on.
+Transcription: from DNA to mRNA
+Both prokaryotes and eukaryotes perform fundamentally the same process of transcription, with the important
+difference of the membrane-bound nucleus in eukaryotes. With the genes bound in the nucleus, transcription
+occurs in the nucleus of the cell and the mRNA transcript must be transported to the cytoplasm. The prokaryotes,
+which include bacteria and archaea, lack membrane-bound nuclei and other organelles, and transcription occurs in
+the cytoplasm of the cell. In both prokaryotes and eukaryotes, transcription occurs in three main stages: initiation,
+elongation, and termination.
+Initiation
+Transcription requires the DNA double helix to partially unwind in the region of mRNA synthesis. The region of
+unwinding is called a transcription bubble. The DNA sequence onto which the proteins and enzymes involved in
+transcription bind to initiate the process is called a promoter. In most cases, promoters exist upstream of the genes
+they regulate. The specific sequence of a promoter is very important because it determines whether the
+corresponding gene is transcribed all of the time, some of the time, or hardly at all (Figure 9.15).
+9.3 • Transcription
+209

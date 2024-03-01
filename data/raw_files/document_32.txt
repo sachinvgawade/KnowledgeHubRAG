@@ -1,0 +1,30 @@
+"vehicle" in which to insert a desired DNA fragment. Modified plasmids are usually reintroduced into a bacterial host
+for replication. As the bacteria divide, they copy their own DNA (including the plasmids). The inserted DNA fragment
+is copied along with the rest of the bacterial DNA. In a bacterial cell, the fragment of DNA from the human genome
+(or another organism that is being studied) is referred to as foreign DNA to differentiate it from the DNA of the
+bacterium (the host DNA).
+Plasmids occur naturally in bacterial populations (such as Escherichia coli) and have genes that can contribute
+favorable traits to the organism, such as antibiotic resistance (the ability to be unaffected by antibiotics). Plasmids
+have been highly engineered as vectors for molecular cloning and for the subsequent large-scale production of
+important molecules, such as insulin. A valuable characteristic of plasmid vectors is the ease with which a foreign
+DNA fragment can be introduced. These plasmid vectors contain many short DNA sequences that can be cut with
+different commonly available restriction enzymes. Restriction enzymes (also called restriction endonucleases)
+recognize specific DNA sequences and cut them in a predictable manner; they are naturally produced by bacteria as
+a defense mechanism against foreign DNA. Many restriction enzymes make staggered cuts in the two strands of
+DNA, such that the cut ends have a 2- to 4-nucleotide single-stranded overhang. The sequence that is recognized by
+the restriction enzyme is a four- to eight-nucleotide sequence that is a palindrome. Like with a word palindrome, this
+means the sequence reads the same forward and backward. In most cases, the sequence reads the same forward
+on one strand and backward on the complementary strand. When a staggered cut is made in a sequence like this,
+the overhangs are complementary (Figure 10.5).
+FIGURE 10.5 In this (a) six-nucleotide restriction enzyme recognition site, notice that the sequence of six nucleotides reads the same in the
+5' to 3' direction on one strand as it does in the 5' to 3' direction on the complementary strand. This is known as a palindrome. (b) The
+restriction enzyme makes breaks in the DNA strands, and (c) the cut in the DNA results in “sticky ends”. Another piece of DNA cut on either
+end by the same restriction enzyme could attach to these sticky ends and be inserted into the gap made by this cut.
+Because these overhangs are capable of coming back together by hydrogen bonding with complementary overhangs
+on a piece of DNA cut with the same restriction enzyme, these are called “sticky ends.” The process of forming
+hydrogen bonds between complementary sequences on single strands to form double-stranded DNA is called
+annealing. Addition of an enzyme called DNA ligase, which takes part in DNA replication in cells, permanently joins
+the DNA fragments when the sticky ends come together. In this way, any DNA fragment can be spliced between the
+two ends of a plasmid DNA that has been cut with the same restriction enzyme (Figure 10.6).
+10.1 • Cloning and Genetic Engineering
+227

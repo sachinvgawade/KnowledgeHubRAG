@@ -1,0 +1,28 @@
+FIGURE 9.3 (a) Each DNA nucleotide is made up of a sugar, a phosphate group, and a base. (b) Cytosine and thymine are pyrimidines.
+Guanine and adenine are purines.
+The phosphate group of one nucleotide bonds covalently with the sugar molecule of the next nucleotide, and so on,
+forming a long polymer of nucleotide monomers. The sugar–phosphate groups line up in a “backbone” for each
+single strand of DNA, and the nucleotide bases stick out from this backbone. The carbon atoms of the five-carbon
+sugar are numbered clockwise from the oxygen as 1', 2', 3', 4', and 5' (1' is read as “one prime”). The phosphate
+group is attached to the 5' carbon of one nucleotide and the 3' carbon of the next nucleotide. In its natural state,
+each DNA molecule is actually composed of two single strands held together along their length with hydrogen bonds
+between the bases.
+Watson and Crick proposed that the DNA is made up of two strands that are twisted around each other to form a
+right-handed helix, called a double helix. Base-pairing takes place between a purine and pyrimidine: namely, A
+pairs with T, and G pairs with C. In other words, adenine and thymine are complementary base pairs, and cytosine
+and guanine are also complementary base pairs. This is the basis for Chargaff’s rule; because of their
+complementarity, there is as much adenine as thymine in a DNA molecule and as much guanine as cytosine.
+Adenine and thymine are connected by two hydrogen bonds, and cytosine and guanine are connected by three
+hydrogen bonds. The two strands are anti-parallel in nature; that is, one strand will have the 3' carbon of the sugar in
+the “upward” position, whereas the other strand will have the 5' carbon in the upward position. The diameter of the
+DNA double helix is uniform throughout because a purine (two rings) always pairs with a pyrimidine (one ring) and
+their combined lengths are always equal. (Figure 9.4).
+FIGURE 9.4 DNA (a) forms a double stranded helix, and (b) adenine pairs with thymine and cytosine pairs with guanine. (credit a:
+modification of work by Jerome Walker, Dennis Myts)
+The Structure of RNA
+There is a second nucleic acid in all cells called ribonucleic acid, or RNA. Like DNA, RNA is a polymer of nucleotides.
+Each of the nucleotides in RNA is made up of a nitrogenous base, a five-carbon sugar, and a phosphate group. In the
+case of RNA, the five-carbon sugar is ribose, not deoxyribose. Ribose has a hydroxyl group at the 2' carbon, unlike
+200
+9 • Molecular Biology
+Access for free at openstax.org

@@ -1,0 +1,29 @@
+techniques have revolutionized plant and animal breeding for human agricultural needs. All of
+these advances in biotechnology depended on basic research leading to the discovery of the
+structure of DNA in 1953, and the research since then that has uncovered the details of DNA
+replication and the complex process leading to the expression of DNA in the form of proteins in the
+cell.
+9.1 The Structure of DNA
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+•
+Describe the structure of DNA
+•
+Describe how eukaryotic and prokaryotic DNA is arranged in the cell
+In the 1950s, Francis Crick and James Watson worked together at the University of Cambridge,
+England, to determine the structure of DNA. Other scientists, such as Linus Pauling and Maurice
+Wilkins, were also actively exploring this field. Pauling had discovered the secondary structure of
+proteins using X-ray crystallography. X-ray crystallography is a method for investigating molecular
+structure by observing the patterns formed by X-rays shot through a crystal of the substance. The
+patterns give important information about the structure of the molecule of interest. In Wilkins’ lab,
+researcher Rosalind Franklin was using X-ray crystallography to understand the structure of DNA.
+Watson and Crick were able to piece together the puzzle of the DNA molecule using Franklin's
+data (Figure 9.2). Watson and Crick also had key pieces of information available from other
+researchers such as Chargaff’s rules. Chargaff had shown that of the four kinds of monomers
+(nucleotides) present in a DNA molecule, two types were always present in equal amounts and the
+remaining two types were also always present in equal amounts. This meant they were always
+paired in some way. In 1962, James Watson, Francis Crick, and Maurice Wilkins were awarded the
+Nobel Prize in Medicine for their work in determining the structure of DNA.
+198
+9 • Molecular Biology
+Access for free at openstax.org

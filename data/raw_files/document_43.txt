@@ -1,0 +1,44 @@
+several million SNPs identified, but identifying them in other individuals who have not had their complete genome
+sequenced is much easier because only the marker SNPs need to be identified.
+In a common design for a GWAS, two groups of individuals are chosen; one group has the disease, and the other
+group does not. The individuals in each group are matched in other characteristics to reduce the effect of
+confounding variables causing differences between the two groups. For example, the genotypes may differ because
+the two groups are mostly taken from different parts of the world. Once the individuals are chosen, and typically
+their numbers are a thousand or more for the study to work, samples of their DNA are obtained. The DNA is analyzed
+using automated systems to identify large differences in the percentage of particular SNPs between the two groups.
+Often the study examines a million or more SNPs in the DNA. The results of GWAS can be used in two ways: the
+genetic differences may be used as markers for susceptibility to the disease in undiagnosed individuals, and the
+particular genes identified can be targets for research into the molecular pathway of the disease and potential
+therapies. An offshoot of the discovery of gene associations with disease has been the formation of companies that
+provide so-called “personal genomics” that will identify risk levels for various diseases based on an individual’s SNP
+complement. The science behind these services is controversial.
+Because GWAS looks for associations between genes and disease, these studies provide data for other research into
+causes, rather than answering specific questions themselves. An association between a gene difference and a
+disease does not necessarily mean there is a cause-and-effect relationship. However, some studies have provided
+useful information about the genetic causes of diseases. For example, three different studies in 2005 identified a
+gene for a protein involved in regulating inflammation in the body that is associated with a disease-causing
+blindness called age-related macular degeneration. This opened up new possibilities for research into the cause of
+this disease. A large number of genes have been identified to be associated with Crohn’s disease using GWAS, and
+some of these have suggested new hypothetical mechanisms for the cause of the disease.
+Pharmacogenomics
+Pharmacogenomics involves evaluating the effectiveness and safety of drugs on the basis of information from an
+individual's genomic sequence. Personal genome sequence information can be used to prescribe medications that
+will be most effective and least toxic on the basis of the individual patient’s genotype. Studying changes in gene
+expression could provide information about the gene transcription profile in the presence of the drug, which can be
+used as an early indicator of the potential for toxic effects. For example, genes involved in cellular growth and
+controlled cell death, when disturbed, could lead to the growth of cancerous cells. Genome-wide studies can also
+help to find new genes involved in drug toxicity. The gene signatures may not be completely accurate, but can be
+tested further before pathologic symptoms arise.
+Metagenomics
+Traditionally, microbiology has been taught with the view that microorganisms are best studied under pure culture
+conditions, which involves isolating a single type of cell and culturing it in the laboratory. Because microorganisms
+can go through several generations in a matter of hours, their gene expression profiles adapt to the new laboratory
+environment very quickly. On the other hand, many species resist being cultured in isolation. Most microorganisms
+do not live as isolated entities, but in microbial communities known as biofilms. For all of these reasons, pure
+culture is not always the best way to study microorganisms. Metagenomics is the study of the collective genomes of
+multiple species that grow and interact in an environmental niche. Metagenomics can be used to identify new
+species more rapidly and to analyze the effect of pollutants on the environment (Figure 10.13). Metagenomics
+techniques can now also be applied to communities of higher eukaryotes, such as fish.
+238
+10 • Biotechnology
+Access for free at openstax.org

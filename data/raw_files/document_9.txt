@@ -1,0 +1,32 @@
+FIGURE 9.9 The semiconservative model of DNA replication is shown. Gray indicates the original DNA strands, and blue indicates newly
+synthesized DNA.
+During DNA replication, each of the two strands that make up the double helix serves as a template from which new
+strands are copied. The new strand will be complementary to the parental or “old” strand. Each new double strand
+consists of one parental strand and one new daughter strand. This is known as semiconservative replication. When
+two DNA copies are formed, they have an identical sequence of nucleotide bases and are divided equally into two
+daughter cells.
+DNA Replication in Eukaryotes
+Because eukaryotic genomes are very complex, DNA replication is a very complicated process that involves several
+enzymes and other proteins. It occurs in three main stages: initiation, elongation, and termination.
+Recall that eukaryotic DNA is bound to proteins known as histones to form structures called nucleosomes. During
+initiation, the DNA is made accessible to the proteins and enzymes involved in the replication process. How does the
+replication machinery know where on the DNA double helix to begin? It turns out that there are specific nucleotide
+sequences called origins of replication at which replication begins. Certain proteins bind to the origin of replication
+while an enzyme called helicase unwinds and opens up the DNA helix. As the DNA opens up, Y-shaped structures
+called replication forks are formed (Figure 9.10). Two replication forks are formed at the origin of replication, and
+these get extended in both directions as replication proceeds. There are multiple origins of replication on the
+eukaryotic chromosome, such that replication can occur simultaneously from several places in the genome.
+During elongation, an enzyme called DNA polymerase adds DNA nucleotides to the 3' end of the template. Because
+DNA polymerase can only add new nucleotides at the end of a backbone, a primer sequence, which provides this
+starting point, is added with complementary RNA nucleotides. This primer is removed later, and the nucleotides are
+replaced with DNA nucleotides. One strand, which is complementary to the parental DNA strand, is synthesized
+continuously toward the replication fork so the polymerase can add nucleotides in this direction. This continuously
+synthesized strand is known as the leading strand. Because DNA polymerase can only synthesize DNA in a 5' to 3'
+direction, the other new strand is put together in short pieces called Okazaki fragments. The Okazaki fragments
+each require a primer made of RNA to start the synthesis. The strand with the Okazaki fragments is known as the
+lagging strand. As synthesis proceeds, an enzyme removes the RNA primer, which is then replaced with DNA
+nucleotides, and the gaps between fragments are sealed by an enzyme called DNA ligase.
+The process of DNA replication can be summarized as follows:
+204
+9 • Molecular Biology
+Access for free at openstax.org

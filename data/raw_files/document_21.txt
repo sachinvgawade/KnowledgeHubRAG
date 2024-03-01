@@ -1,0 +1,13 @@
+gene expression can occur at all stages of the process (Figure 9.22). Regulation may occur when the DNA is uncoiled
+and loosened from nucleosomes to bind transcription factors (epigenetic level), when the RNA is transcribed
+(transcriptional level), when RNA is processed and exported to the cytoplasm after it is transcribed (post-
+transcriptional level), when the RNA is translated into protein (translational level), or after the protein has been
+made (post-translational level).
+FIGURE 9.22 Eukaryotic gene expression is regulated during transcription and RNA processing, which take place in the nucleus, as well as
+during protein translation, which takes place in the cytoplasm. Further regulation may occur through post-translational modifications of
+proteins.
+The differences in the regulation of gene expression between prokaryotes and eukaryotes are summarized in Table
+9.2.
+216
+9 • Molecular Biology
+Access for free at openstax.org

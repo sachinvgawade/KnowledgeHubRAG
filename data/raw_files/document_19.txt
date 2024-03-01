@@ -1,0 +1,18 @@
+ribosome shifts one codon at a time, catalyzing each process that occurs in the three sites. With each step, a
+charged tRNA enters the complex, the polypeptide becomes one amino acid longer, and an uncharged tRNA departs.
+The energy for each bond between amino acids is derived from GTP, a molecule similar to ATP (Figure 9.21).
+Amazingly, the E. coli translation apparatus takes only 0.05 seconds to add each amino acid, meaning that a
+200-amino acid polypeptide could be translated in just 10 seconds.
+FIGURE 9.21 Translation begins when a tRNA anticodon recognizes a codon on the mRNA. The large ribosomal subunit joins the small
+subunit, and a second tRNA is recruited. As the mRNA moves relative to the ribosome, the polypeptide chain is formed. Entry of a release
+factor into the A site terminates translation and the components dissociate.
+Termination of translation occurs when a stop codon (UAA, UAG, or UGA) is encountered. When the ribosome
+encounters the stop codon, the growing polypeptide is released and the ribosome subunits dissociate and leave the
+mRNA. After many ribosomes have completed translation, the mRNA is degraded so the nucleotides can be reused
+in another transcription reaction.
+LINK TO LEARNING
+Transcribe a gene and translate it to protein using complementary pairing and the genetic code at this site
+(http://openstax.org/l/create_protein2).
+214
+9 • Molecular Biology
+Access for free at openstax.org

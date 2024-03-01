@@ -1,0 +1,9 @@
+FIGURE 9.13 Proofreading by DNA polymerase (a) corrects errors during replication. In mismatch repair (b), the incorrectly added base is
+detected after replication. The mismatch repair proteins detect this base and remove it from the newly synthesized strand by nuclease
+action. The gap is now filled with the correctly paired base. Nucleotide excision (c) repairs thymine dimers. When exposed to UV, thymines
+lying adjacent to each other can form thymine dimers. In normal cells, they are excised and replaced.
+Most mistakes are corrected; if they are not, they may result in a mutation—defined as a permanent change in the
+DNA sequence. Mutations in repair genes may lead to serious consequences like cancer.
+208
+9 • Molecular Biology
+Access for free at openstax.org

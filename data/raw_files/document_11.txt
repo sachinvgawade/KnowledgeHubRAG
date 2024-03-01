@@ -1,0 +1,23 @@
+FIGURE 9.11 The ends of linear chromosomes are maintained by the action of the telomerase enzyme.
+Telomerase is typically found to be active in germ cells, adult stem cells, and some cancer cells. For her discovery of
+telomerase and its action, Elizabeth Blackburn (Figure 9.12) received the Nobel Prize for Medicine and Physiology in
+2009. Later research using HeLa cells (obtained from Henrietta Lacks) confirmed that telomerase is present in
+human cells. And in 2001, researchers including Diane L. Wright found that telomerase is necessary for cells in
+human embryos to rapidly proliferate.
+FIGURE 9.12 Elizabeth Blackburn, 2009 Nobel Laureate, was the scientist who discovered how telomerase works. (credit: U.S. Embassy,
+Stockholm, Sweden)
+Telomerase is not active in adult somatic cells. Adult somatic cells that undergo cell division continue to have their
+telomeres shortened. This essentially means that telomere shortening is associated with aging. In 2010, scientists
+found that telomerase can reverse some age-related conditions in mice, and this may have potential in regenerative
+medicine.1 Telomerase-deficient mice were used in these studies; these mice have tissue atrophy, stem-cell
+depletion, organ system failure, and impaired tissue injury responses. Telomerase reactivation in these mice caused
+extension of telomeres, reduced DNA damage, reversed neurodegeneration, and improved functioning of the testes,
+spleen, and intestines. Thus, telomere reactivation may have potential for treating age-related diseases in humans.
+DNA Replication in Prokaryotes
+Recall that the prokaryotic chromosome is a circular molecule with a less extensive coiling structure than eukaryotic
+chromosomes. The eukaryotic chromosome is linear and highly coiled around proteins. While there are many
+1 Mariella Jaskelioff, et al., “Telomerase reactivation reverses tissue degeneration in aged telomerase-deficient mice,” Nature, 469
+(2011):102–7.
+206
+9 • Molecular Biology
+Access for free at openstax.org
