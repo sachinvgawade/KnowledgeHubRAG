@@ -12,6 +12,24 @@ Question answering RAG on pdf files
 - **PDF Processing:** Extracts information from PDF files to build an index for efficient retrieval.
 
 - **Language Models:** Incorporates pre-trained language models (LLM) to generate responses with context-awareness.
+- 
+### Key Components
+
+#### 1. Haystack Framework
+- Facilitates easy integration of the document store, retriever, and reader components.
+- Provides efficient indexing and retrieval functionalities.
+
+#### 2. FAISS Document Store
+- An in-memory vector database used for fast and scalable document retrieval.
+
+#### 3. Retriever (sentence-transformers)
+- Converts queries and passages into embeddings for similarity searches.
+
+#### 4. Reader (deepset/roberta-base-squad2)
+- Performs reading comprehension on retrieved passages to identify answers.
+
+#### 5. RAG Pipeline
+- Combines the strengths of both Retriever and Reader for improved question answering.
 
 ## Usage
 
