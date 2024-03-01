@@ -26,7 +26,7 @@ cd KnowledgeHubRAG
 
 # Install dependencies (make sure to use a virtual environment)
 pip install -r requirements.txt
-
+```
 ## Future Work and Potential Enhancements
 
 While the current implementation provides a functional RAG pipeline for question answering on specific PDF data, there are several areas where further exploration and improvement could be considered:
